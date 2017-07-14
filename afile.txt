@@ -1,5 +1,6 @@
 Hello world
 
 I've made this change
+Here is my conflict checkin
 
 This is my cool feature change
