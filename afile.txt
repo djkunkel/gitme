@@ -1,6 +1,5 @@
 Hello world
 
 I've made this change
-Here is a change for the master branch
-
+This is what I really want
 This is my cool feature change
